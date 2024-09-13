@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://koisuru-project.github.io/panduan-fansubbing/sitemap.xml.gz
