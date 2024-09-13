@@ -14,7 +14,5 @@ jobs:
       - uses: retypeapp/action-build@latest
       - uses: retypeapp/action-github-pages@latest
         with:
-          token: ${{ secrets.GH_PAT || github.token }}
           update-branch: true
-        env:
-          INPUT_GITHUB_TOKEN: ${{ secrets.GH_PAT || github.token }}
+          github-token: ${{ secrets.GH_PAT || github.token }}
