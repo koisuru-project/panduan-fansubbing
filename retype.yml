@@ -1,0 +1,18 @@
+# url:
+
+input: ./panduan
+
+start:
+  pro: true
+
+exclude:
+  - "hidden/"
+
+branding:
+  title: Panduan Fansubbing
+
+edit:
+  repo: "https://github.com/koisuru-project/panduan-fansubbing/edit/"
+  base: /panduan/
+  branch: "main"
+  label: "Edit this page"
