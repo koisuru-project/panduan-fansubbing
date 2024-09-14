@@ -6,7 +6,7 @@
     <p align="center">
       Retype docs for Panduan Fansubbing, a docs for all things related to fansubbing and more.
       <br>
-      <a href="https://koisuru-project.github.io/panduan-fansubbing/"><strong>Explore the wiki »</strong></a>
+      <a href="https://koisuru-project.github.io/panduan-fansubbing/"><strong>Explore the docs »</strong></a>
       <br>
     </p>
   </p>
