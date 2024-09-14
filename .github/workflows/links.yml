@@ -22,7 +22,7 @@ jobs:
             --max-redirects 10
             --header "accept=*/*"
             --accept 200,204,206,403,429
-            --base 'https://docs.pololer.my.id'
+            --base 'https://koisuru-project.github.io/panduan-fansubbing'
             --exclude-path './docs/hidden'
             --exclude '^https://cdn.lewd.host'
             --exclude '^https://discordapp.com'
