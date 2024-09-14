@@ -31,7 +31,7 @@
 
 ## Getting Started
 
-thewiki is built using [Retype](https://retype.com). See how you can host a local copy on your machine:
+Panduan Fansubbing is built using [Retype](https://retype.com). See how you can host a local copy on your machine:
 
 ### Prerequisites
 
@@ -66,7 +66,7 @@ thewiki is built using [Retype](https://retype.com). See how you can host a loca
    ```
 
    ``` sh
-   cd thewiki
+   cd panduan-fansubbing
    ```
 
 3. Build and run:
