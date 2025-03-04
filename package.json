@@ -1,0 +1,27 @@
+{
+  "name": "panduan-fansubbing",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "pretty": "prettier --check .",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.32.2",
+    "astro": "^5.1.5",
+    "format": "^0.2.2",
+    "prettier": "^3.5.3",
+    "sharp": "^0.32.5"
+  },
+  "prettier": {
+    "tabWidth": 4,
+    "trailingComma": "none",
+    "arrowParens": "avoid",
+    "printWidth": 120
+  }
+}
