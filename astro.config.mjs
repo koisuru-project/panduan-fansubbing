@@ -7,14 +7,15 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Panduan Fansubbing',
-			social: {
-				github: 'https://github.com/koisuru-project/panduan-fansubbing',
-			},
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/koisuru-project/panduan-fansubbing' },
+				{ icon: 'discord', label: 'Discord', href: 'https://discord.gg/za7XeBK8tS' },
+			],
 			sidebar: [
 				{
 					label: 'Persiapan',
 					items: [
-						// Each item here is one entry in the navigation menu.
+						{ label: 'Kata Pengantar', slug: 'persiapan/kata-pengantar' },
 						{ label: 'Jobdesk', slug: 'persiapan/jobdesk' },
 					],
 				}
